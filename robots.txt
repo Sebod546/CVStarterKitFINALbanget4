@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://GANTI-DENGAN-DOMAINMU/sitemap.xml
+Sitemap: https://cvstarterkit.web.id/sitemap.xml
